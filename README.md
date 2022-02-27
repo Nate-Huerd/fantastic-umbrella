@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# Fantastic Umbrella - Week 13 Challenge
 
 ## Description
 The goal of this project is to build the back-end for an e-commerce site. As a user working in the command-line, I can view the Categories, Products, and Tags of the seeded information. I can also search for one specifically, add one, update one, or delete one. This follows the CRUD methodology.
