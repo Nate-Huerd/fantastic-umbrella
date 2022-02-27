@@ -48,7 +48,7 @@ category_id...x
 Integer...x
 References the category model's id...x
 
-Tag...x
+Tag
 id...x
 Integer...x
 Doesn't allow null values...x
@@ -57,7 +57,7 @@ Uses auto increment...x
 tag_name...x
 String...x
 
-ProductTag...x
+ProductTag
 id...x
 Integer...x
 Doesn't allow null values...x
