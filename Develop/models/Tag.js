@@ -9,10 +9,12 @@ Tag.init(
     // define columns
     id: {
       type: DataTypes.INTEGER,
-
+      allowNull: false,
+      PrimaryKey: true,
+      autoIncrement: true
     },
     tag_name: {
-      
+      type: DataTypes.String
     }
   },
   {
