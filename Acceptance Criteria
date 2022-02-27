@@ -1,6 +1,6 @@
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
+THEN I am able to connect to a database using Sequelize ...x
 
 WHEN I enter schema and seed commands
 THEN a development database is created and is seeded with test data
@@ -72,10 +72,10 @@ References the tag model's id...x
 
 ----
 
-Product belongs to Category, as a category can have multiple products but a product can only belong to one category.
+Product belongs to Category, as a category can have multiple products but a product can only belong to one category....x
 
-Category has many Product models.
+Category has many Product models....x
 
-Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products.
+Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products....x
 
-Tag belongs to many Product models.
+Tag belongs to many Product models...x
